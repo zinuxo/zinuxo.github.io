@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-# publishDir = "dir"
+publishDir = "docs"
 
 baseURL = "https://zinuxo.github.io/"
 languageCode = "en-us"
