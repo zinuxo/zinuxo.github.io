@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zinuxo.github.io/</loc>
-    <lastmod>2019-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2021-07-06T17:07:40+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +15,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zinuxo.github.io/"
+                />
+  </url><url>
+    <loc>https://zinuxo.github.io/post/oi-analysis/</loc>
+    <lastmod>2021-07-06T17:07:40+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zinuxo.github.io/post/</loc>
+    <lastmod>2021-07-06T17:07:40+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zinuxo.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zinuxo.github.io/post/"
                 />
   </url><url>
     <loc>https://zinuxo.github.io/post/chapter-1/</loc>
@@ -30,21 +50,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zinuxo.github.io/post/chapter-1/"
-                />
-  </url><url>
-    <loc>https://zinuxo.github.io/post/</loc>
-    <lastmod>2019-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://zinuxo.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zinuxo.github.io/post/"
                 />
   </url><url>
     <loc>https://zinuxo.github.io/about/</loc>
