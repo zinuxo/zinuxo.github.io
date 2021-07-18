@@ -36,16 +36,6 @@
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zinuxo.github.io/tags/scene/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://zinuxo.github.io/fr/tags/scene/"
-                />
   </url><url>
     <loc>https://zinuxo.github.io/fr/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
@@ -103,6 +93,20 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://zinuxo.github.io/fr/contact/"
+                />
+  </url><url>
+    <loc>https://zinuxo.github.io/fr/series/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zinuxo.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zinuxo.github.io/fr/series/"
                 />
   </url>
 </urlset>
