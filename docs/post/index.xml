@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My blog</title>
-    <link>https://zinuxo.github.io/post/</link>
+    <link>https://github.com/zinuxo/zinuxo.github.io/post/</link>
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 12:46:29 +0800</lastBuildDate><atom:link href="https://zinuxo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 12:46:29 +0800</lastBuildDate><atom:link href="https://github.com/zinuxo/zinuxo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一点思绪</title>
-      <link>https://zinuxo.github.io/post/%E4%B8%80%E7%82%B9%E6%80%9D%E7%BB%AA/</link>
+      <link>https://github.com/zinuxo/zinuxo.github.io/post/%E4%B8%80%E7%82%B9%E6%80%9D%E7%BB%AA/</link>
       <pubDate>Wed, 25 Aug 2021 12:46:29 +0800</pubDate>
       
-      <guid>https://zinuxo.github.io/post/%E4%B8%80%E7%82%B9%E6%80%9D%E7%BB%AA/</guid>
+      <guid>https://github.com/zinuxo/zinuxo.github.io/post/%E4%B8%80%E7%82%B9%E6%80%9D%E7%BB%AA/</guid>
       <description>本来写了点情绪的引子，后来发现和我现在的心境不太吻合。还是自由起笔吧。
 回望过去，我一直不知道为什么而奋斗。有时是兴趣，有时是环境所迫，有时只是过往生活的惯性。我一直在思考这个问题，但一直没有得到一个满意的答案，一个能让我对抗灰暗世界去拥抱幸福的答案。我不知道为什么而活，也曾一度滑向过虚无主义，认为活着没有意义。其实到现在我也没能正面回答活着的意义，只是比起当时多了一些理解世界的方式。比如《感性》 一文里提到的，“普遍具有的优化目标”，又或者更早的一些博文（然而出于一些原因并没有迁移至这个站点）里的一些逻辑游戏。尽管从自我的感知来说，这些说法对于正面回答问题没有多大帮助，但至少，这些诡辩术维持着我脆弱的心灵。
 有时回想起过去的一些博文，看着就像心理自残。虽然我仍然保有当时的记忆，清楚地理解当时为什么会写下那些文字，但是稍加品味甚至有些恐惧。如果这样一个人还秉持类似于人人平等的想法，那他又是怎样看待别人的呢？感觉过去几个月几年的一些心路历程，虽然早早就定义好了损失函数，但是真正将每个神经元的参数都训练到和粗糙的现实相契合，还是要喂入海量数据，承受痛苦，行拂乱其所为，之后才能有所成长。
@@ -25,10 +25,10 @@
     
     <item>
       <title>感性</title>
-      <link>https://zinuxo.github.io/post/%E6%84%9F%E6%80%A7/</link>
+      <link>https://github.com/zinuxo/zinuxo.github.io/post/%E6%84%9F%E6%80%A7/</link>
       <pubDate>Thu, 29 Jul 2021 15:08:25 +0800</pubDate>
       
-      <guid>https://zinuxo.github.io/post/%E6%84%9F%E6%80%A7/</guid>
+      <guid>https://github.com/zinuxo/zinuxo.github.io/post/%E6%84%9F%E6%80%A7/</guid>
       <description>引言 和本站点其它文章不同的是，本文里提到的东西，存在一部分，是没有办法按照科学的原则来加以验证。甚至本文所说的根本不是科学，而是更偏于“玄学”一类的东西。
 然而即便难以按照科学的原则来验证，但如果您部分理解了本文，那还是欢迎与我交流想法的。后文提到的一些概念可能和前人讨论有所雷同，但我精力有限，暂时没能完全审视前人成果；不过在文中的部分地方，还是提到了可能存在的前人讨论的。
 希望能对读者有启发吧。
@@ -78,10 +78,10 @@
     
     <item>
       <title>浅谈宇宙社会学</title>
-      <link>https://zinuxo.github.io/post/%E6%B5%85%E8%B0%88%E5%AE%87%E5%AE%99%E7%A4%BE%E4%BC%9A%E5%AD%A6/</link>
+      <link>https://github.com/zinuxo/zinuxo.github.io/post/%E6%B5%85%E8%B0%88%E5%AE%87%E5%AE%99%E7%A4%BE%E4%BC%9A%E5%AD%A6/</link>
       <pubDate>Thu, 22 Jul 2021 13:53:41 +0800</pubDate>
       
-      <guid>https://zinuxo.github.io/post/%E6%B5%85%E8%B0%88%E5%AE%87%E5%AE%99%E7%A4%BE%E4%BC%9A%E5%AD%A6/</guid>
+      <guid>https://github.com/zinuxo/zinuxo.github.io/post/%E6%B5%85%E8%B0%88%E5%AE%87%E5%AE%99%E7%A4%BE%E4%BC%9A%E5%AD%A6/</guid>
       <description>引言 首先明确一下讨论背景。
 我最早是从《三体》小说里得知“宇宙社会学”一词。这里本文希望越过小说的既有框架约束，来讨论现实世界的真实情况。囿于来源，所以这里会从小说里提到的一些概念出发进行讨论。
 由于本人能力有限，所以后面只会提纲临摹地给出若干概念/现象，并猜测性地简要给出其间的联系。漏洞存在是必然的，这里主要是想先形成一份提纲，搭一个框架出来，更进一步地细化讨论以后再说。希望能抛砖引玉对您有所启发，并吸引您参与到这里的理论构建里来。
@@ -118,10 +118,10 @@
     
     <item>
       <title>Emotion1</title>
-      <link>https://zinuxo.github.io/post/emotion1/</link>
+      <link>https://github.com/zinuxo/zinuxo.github.io/post/emotion1/</link>
       <pubDate>Thu, 08 Jul 2021 11:26:51 +0800</pubDate>
       
-      <guid>https://zinuxo.github.io/post/emotion1/</guid>
+      <guid>https://github.com/zinuxo/zinuxo.github.io/post/emotion1/</guid>
       <description>1.激进度，对于未知道路的偏好程度
 2.装备有曲率引擎飞船的军队，在行星表面战斗时却使用原始的冷兵器
 ​	——反差之中的审美
@@ -156,10 +156,10 @@ https://tieba.baidu.com/p/6543975407
     
     <item>
       <title>OI-analysis</title>
-      <link>https://zinuxo.github.io/post/oi-analysis/</link>
+      <link>https://github.com/zinuxo/zinuxo.github.io/post/oi-analysis/</link>
       <pubDate>Tue, 06 Jul 2021 17:07:40 +0800</pubDate>
       
-      <guid>https://zinuxo.github.io/post/oi-analysis/</guid>
+      <guid>https://github.com/zinuxo/zinuxo.github.io/post/oi-analysis/</guid>
       <description>谈一下我关于OI的一些经验与想法吧，会谈的比较零碎。
 OI的三种能力 一般认为OI的能力分为三类，知识、码力、思维。大致而言，一般认为知识是指考试开始前就已经掌握的，思维指场上现想的东西，码力指将前两者翻译为代码的能力。
 想要真正掌握并灵活运用知识，一定的思维能力是必不可少的。如果发现超出理解能力了，建议不要强行记忆，可以先放弃该知识转而先学习其它东西。虽然我感觉很多”理解不能“的情况是OI发展程度不够，没有好的讲稿或者你没有好的讲稿造成的。
@@ -199,10 +199,10 @@ VP 一般指CF/CFgym/ATC上虚拟参加在线比赛的功能。</description>
     
     <item>
       <title>CTS2021退役记</title>
-      <link>https://zinuxo.github.io/post/oi-retirement-record/</link>
+      <link>https://github.com/zinuxo/zinuxo.github.io/post/oi-retirement-record/</link>
       <pubDate>Tue, 06 Jul 2021 14:22:12 +0800</pubDate>
       
-      <guid>https://zinuxo.github.io/post/oi-retirement-record/</guid>
+      <guid>https://github.com/zinuxo/zinuxo.github.io/post/oi-retirement-record/</guid>
       <description>从前我总是等考试结束后才更游记，对着尘埃落定的成绩，小心翼翼地堆砌文字。 这次我不会鸽了，也不会再有莫名其妙的十五进五了，我要勇敢地迎接最后的结局，而不是空自面对失败的无助与成功的无措。 华丽精致的亭台楼阁走近之后突然化为乌有，但是过去与未来的漫漫征途才是真正值得怀念与期待的。 七彩泡沫的破灭必然不是happy ending，但也不是bad ending，它只是true ending。
  似乎一直有人催我更退役记，那我来更吧。
 先记录下我现在仍然记得的考试细节吧。
@@ -230,10 +230,10 @@ CTS2021莫名其妙的失败带来的打击确实不小，不过也慢慢淡然�
     
     <item>
       <title>关于本博客</title>
-      <link>https://zinuxo.github.io/post/helloworld/</link>
+      <link>https://github.com/zinuxo/zinuxo.github.io/post/helloworld/</link>
       <pubDate>Tue, 29 Jun 2021 19:07:42 +0800</pubDate>
       
-      <guid>https://zinuxo.github.io/post/helloworld/</guid>
+      <guid>https://github.com/zinuxo/zinuxo.github.io/post/helloworld/</guid>
       <description>因为个人能力问题，这个博客是直接沿用某模板框架的，布局有点糟乱，不过不太影响文章内容的阅读体验，希望大家见谅。
 曾经我在CSDN也有过一个博客，不过CSDN现在的使用体验有点差，加上原先博客的文章内容涉及了太多的青涩回忆，就新开了这个博客。
 在这个博客，我主要打算保存一些值得记忆的事物、见闻和思索。
@@ -244,10 +244,10 @@ CTS2021莫名其妙的失败带来的打击确实不小，不过也慢慢淡然�
     
     <item>
       <title>Another hello world</title>
-      <link>https://zinuxo.github.io/post/chapter-1/</link>
+      <link>https://github.com/zinuxo/zinuxo.github.io/post/chapter-1/</link>
       <pubDate>Tue, 09 Apr 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://zinuxo.github.io/post/chapter-1/</guid>
+      <guid>https://github.com/zinuxo/zinuxo.github.io/post/chapter-1/</guid>
       <description>本篇博文仅供测试用。
 $$ x^2 $$
 ¿
@@ -256,10 +256,10 @@ $$ x^2 $$
     
     <item>
       <title>Chapter II: Pierre Gringoire</title>
-      <link>https://zinuxo.github.io/post/chapter-2/</link>
+      <link>https://github.com/zinuxo/zinuxo.github.io/post/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://zinuxo.github.io/post/chapter-2/</guid>
+      <guid>https://github.com/zinuxo/zinuxo.github.io/post/chapter-2/</guid>
       <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
 “Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
     </item>

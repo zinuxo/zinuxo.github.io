@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Mon blogue</title>
-    <link>https://zinuxo.github.io/fr/series/</link>
+    <link>https://github.com/zinuxo/zinuxo.github.io/fr/series/</link>
     <description>Recent content in Series on Mon blogue</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zinuxo.github.io/fr/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/zinuxo/zinuxo.github.io/fr/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
