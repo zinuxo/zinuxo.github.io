@@ -3,7 +3,7 @@ title: "OI-analysis"
 description: "OI碎碎念"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 date: 2021-07-06T17:07:40+08:00
-draft: false
+draft: true
 ---
 
 谈一下我关于OI的一些经验与想法吧，会谈的比较零碎。
